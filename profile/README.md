@@ -7,7 +7,7 @@ Welcome to the Black Widow Company (BWC). We are a multi-game, multi-platform, m
 Black Widow Company was officially founded in February of 2003 by four active-duty military guys stationed at Fort Meade, Maryland. Traditionally, the BWC birthday had been celebrated as 01 April 2003, though the core members had been playing various shooters whilst wearing a [BWC] tag long before this.
 
 ## How to Join
-1. Visit our website: [the-bwc.com](https://the-bwc.com)
+1. Visit our website: [Black Widow Company Website](https://the-bwc.com)
 2. Sign up
 3. Submit a Recruit application
 
