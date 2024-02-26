@@ -1,4 +1,4 @@
-# Black Widow Company (BWC)
+<img alt="Black Widow Company" src="https://the-bwc.com/PAO/BannerStandard.png"/>
 
 ## Introduction
 Welcome to the Black Widow Company (BWC). We are a multi-game, multi-platform, multi-national gaming community. We play a variety of games across multiple genres and platforms. We are a group of mature, dedicated players who have come together for a common goal: to have fun, kick ass, and win.
