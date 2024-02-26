@@ -14,5 +14,5 @@ Black Widow Company was officially founded in February of 2003 by four active-du
 From there our S-1 Adjutants will help get you sorted and into the fight!
 
 ## Contact
-- Website: [the-bwc.com](https://the-bwc.com)
-- Discord: [Black Widow Company Discord](https://discord.the-bwc.com)
+- [Black Widow Company Website](https://the-bwc.com)
+- [Black Widow Company Discord](https://discord.the-bwc.com)
